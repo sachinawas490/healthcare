@@ -69,7 +69,7 @@ function AddService() {
      
         <div>
           <label className="block text-gray-700 font-medium mb-2" htmlFor="servicePrice">
-            Service Price (in USD)
+            Service Price (in Rupee)
           </label>
           <input
             id="servicePrice"

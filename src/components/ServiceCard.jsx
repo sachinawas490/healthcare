@@ -16,7 +16,7 @@ function ServiceCard({ index, price, name, description }) {
             <h2 className="card-title my-1 text-[30px] text-blue-500">{ name}</h2>
             <p>{ description}</p>
     <div className="card-actions justify-end">
-                <button className="btn btn-primary">{ price}</button>
+                <button className="btn btn-primary">₹ { price} </button>
     </div>
   </div>
 </div>
